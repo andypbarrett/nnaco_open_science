@@ -1,17 +1,81 @@
 ---
-title: "Fundamental Resources for Open Science"
+title: "Open Science"
 author: "Andrew P. Barrett"
 date: last-modified
 format:
   html:
     toc: true
     title-block-banner: true
+    bibliography: references.bib
+    citations-hover: true
 ---
+
+
+Open Science is a [Strategic Objective]() of the NNA Community
+Office.  
 
 # What is Open Science?
 
+The US Federal Government [defines](https://open.science.gov/) Open
+Science as "...the principle and practice of making research products
+and processes available to all, while respecting diverse cultures,
+maintaining security and privacy, and fostering collaborations,
+reproducibility, and equity."
+
+On January 11, 2023, the White House
+Office of Science and Technology Policy launched the _Year of Open
+Science_ {@whostp_yos_2023}.  [Multiple Federal Agencies](), including NSF, NASA and NOAA
+have launched programmes and funding opportunites to promote and
+foster Open Science practices.  Similar efforts are underway in other
+countries and regions.
+
 
 # Why Open Science?
+
+Open science facilitates transparent, reproducible science through
+sharing data, methods and software used in research, as well as
+through open access to the results of that research.  It also
+encourages diversity within and access to research not only for
+academic but also for non-academic participants.  As such, open
+science aligns with the NNA-CO strategic goals of co-production of
+knowledge, and education and outreach.
+
+Open Science is also kinder science @lowndes_open_2019.  It allows
+researchers in academia, as well as citizen scientists, to do science
+in a more efficient manner.  Data are easier to find, access and use
+when they are stored in stable, long-term, freely accessible archives.
+Openly sharing open source, non-proprietory software tools and code
+used for analysis not only means that fellow researchers can reuse
+these tools, getting to do science faster, but also allows analyses to
+be reproduced and errors discovered, _and corrected_,
+quickly. Ensuring academic papers are openly accessible to all, not
+restricted behind paywalls, will not only lead to increased
+understanding of scientific results but also broaden participation in
+science.
+
+
+# Supporting Open Science at the NNA-CO
+
+The NNA-CO will promote and share resources for the openness,
+integrity, and reproducibility of NNA-funded research.  We will
+collaborate with the NSF Arctic Data Center (ADC) to create greater
+awareness amongst NNA investigators of data requirements, and of
+available resources for archiving their datasets with ADC for spatial,
+temporal, and thematic discoverability.  We will support researchers
+in managing and archiving data; applying the principles of Open Data )
+to their research ([FAIR
+Principles](https://www.go-fair.org/fair-principles/) & [CARE
+Principles](https://www.gida-global.org/care)); and understanding best
+practices as they deal with different data types (for example,
+physical environmental observations vs. social science data
+vs. Indigenous community data).  Following our Guiding Principles, we
+will work to broaden the involvement of Indigenous communities and
+underrepresented groups in Arctic science through promoting open and
+equitable access to data and results.  Working with the NNA-CO
+Advisory Boards, NNA researchers, and the wider research community, we
+will facilitate the development of best practices for open science in
+the context of interdisciplinary and collaborative Arctic research
+while recognizing and upholding Indigenous data sovereignty.
 
 
 # How to do Open Science
