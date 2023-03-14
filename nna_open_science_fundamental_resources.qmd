@@ -24,7 +24,7 @@ reproducibility, and equity."
 
 On January 11, 2023, the White House
 Office of Science and Technology Policy launched the _Year of Open
-Science_ {@whostp_yos_2023}.  [Multiple Federal Agencies](), including NSF, NASA and NOAA
+Science_ [@whostp_yos_2023].  [Multiple Federal Agencies](), including NSF, NASA and NOAA
 have launched programmes and funding opportunites to promote and
 foster Open Science practices.  Similar efforts are underway in other
 countries and regions.
@@ -40,7 +40,7 @@ academic but also for non-academic participants.  As such, open
 science aligns with the NNA-CO strategic goals of co-production of
 knowledge, and education and outreach.
 
-Open Science is also kinder science @lowndes_open_2019.  It allows
+Open Science is also kinder science [@lowndes_open_2019].  It allows
 researchers in academia, as well as citizen scientists, to do science
 in a more efficient manner.  Data are easier to find, access and use
 when they are stored in stable, long-term, freely accessible archives.
@@ -52,6 +52,12 @@ quickly. Ensuring academic papers are openly accessible to all, not
 restricted behind paywalls, will not only lead to increased
 understanding of scientific results but also broaden participation in
 science.
+
+Open Science also benefits you and your research team, especially the
+_Future You_.  By documenting analysis steps, code and data for other
+researchers, you make it easier for you or other members of your
+research team to restart a project after a hiatus or to hand of a
+project to someone else. 
 
 
 # Supporting Open Science at the NNA-CO
@@ -80,8 +86,60 @@ while recognizing and upholding Indigenous data sovereignty.
 
 # How to do Open Science
 
+Open Science is, for many, a change in the way we do science.
+Although we may understand what Open Science is and why it is
+important, how to do Open Science is not always clear, can be
+overwhelming, and seem like a lot of extra work.  It needn't be.
+Below we provide some hints and resources to help you make the change
+to Open Science.
+
+## General hints and suggestions.
+
+Fortunately, there are some excellent arcticles and guides on _doing
+Open Science_ (See @heise_ten_2023 and @tops_guide).  Two keys pieces
+of advice are worth highlighting.
+
+- Start slowly.  Select a few Open Science practices to start with
+rather than trying to follow every suggestion.  The NASA TOPS program
+suggest a few [first
+steps](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#the-core-skills).
+
+- Incorporate Open Science practices at the start of a project, rather
+than at the end when you are trying to publish a manuscript of wrap-up
+a project.  Trying to backwards engineer an analysis workflow or find
+URL or DOI for a dataset months after you downloaded it is time
+consuming and frustrating.  Having a system to record these as you
+work on the project will save time in the long-run.
+@rodrigues_building_2023, advocates DRY WIT: **D**on't **R**epeat 
+**Y**ourself; and **W**rite **IT** down.   
+
+The @tops_guide is a nice tiered approach gives guidance to
+individuals, reasearch teams and organizations in adopting Open
+Sciences practices
+
+
 ## Open Access
 
 ## Open Data
 
 ## Open Code
+
+Most scientists don't consider themselves _software developers_.
+Although you may not be writing production software for Google, or
+some other tech company, you are developing software to collect, clean
+and analyse data, and to create plots and tables.  Taking simple steps
+to document code and write _clean_code_ will make your code easier to
+understand and reduce anxiety created by needing to share code.  The
+resources outlined below are a good start.
+
+Software Capentries
+
+Two papers [@wilson_best_2014; @wilson_good_2017] lay out a set of
+best and _good enough_ practices for scientific software sevelopment.
+
+@rodrigues_building_2023 gives an in depth guide to building
+reproducible workflows; including using version control systems like
+GitHub, writing clean code, and documenting workflows.  The approach
+is a tutorial style with hands-on coding.  The focus is
+on the R language but the approach applies to other langauges such as
+python. It assumes some knowledge of writing code.
