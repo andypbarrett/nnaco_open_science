@@ -1,0 +1,23 @@
+---
+title: "Fundamental Resources for Open Science"
+author: "Andrew P. Barrett"
+date: last-modified
+format:
+  html:
+    toc: true
+    title-block-banner: true
+---
+
+# What is Open Science?
+
+
+# Why Open Science?
+
+
+# How to do Open Science
+
+## Open Access
+
+## Open Data
+
+## Open Code
