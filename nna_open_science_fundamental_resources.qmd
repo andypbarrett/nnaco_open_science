@@ -43,20 +43,21 @@ knowledge, and education and outreach.
 Open Science is also kinder science [@lowndes_open_2019].  It allows
 researchers in academia, as well as citizen scientists, to do science
 in a more efficient manner.  Data are easier to find, access and use
-when they are stored in stable, long-term, freely accessible archives.
-Openly sharing open source, non-proprietory software tools and code
-used for analysis not only means that fellow researchers can reuse
-these tools, getting to do science faster, but also allows analyses to
-be reproduced and errors discovered, _and corrected_,
-quickly. Ensuring academic papers are openly accessible to all, not
-restricted behind paywalls, will not only lead to increased
-understanding of scientific results but also broaden participation in
-science.
+when they are stored in stable, long-term, freely accessible archives,
+with perstent identifiers (e.g. DOI).  Openly sharing open source,
+non-proprietory software tools and code used for analysis not only
+means that fellow researchers can reuse these tools (_needs to be
+reproducible but it does aid understanding_), getting to do
+science faster, but also allows analyses to be reproduced and errors
+discovered, _and corrected_, quickly. Ensuring academic papers are
+openly accessible to all, not restricted behind paywalls, will not
+only lead to increased understanding of scientific results but also
+broaden participation in science.  Additionally, outreach...
 
 Open Science also benefits you and your research team, especially the
 _Future You_.  By documenting analysis steps, code and data for other
 researchers, you make it easier for you or other members of your
-research team to restart a project after a hiatus or to hand of a
+research team to restart a project after a hiatus or to hand-off a
 project to someone else. 
 
 
