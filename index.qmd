@@ -1,0 +1,15 @@
+---
+title: "NNA-CO Open Science"
+---
+
+## Welcome
+
+The resources on this site are intended to promote Open Science
+practices within the Navigating the New Arctic Community and help
+community members transition to Open Science.
+
+If you want to learn what Open Science is and why Open Science helps
+the scientific endeavour, as well as some steps to start practising
+Open Science you can find these on the [Open Science](nna_open_science_fundamental_resources.qmd) page.
+
+If you are looking for resources, go to the [Resources]() page.

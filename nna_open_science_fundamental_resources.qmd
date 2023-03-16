@@ -2,16 +2,17 @@
 title: "Open Science"
 author: "Andrew P. Barrett"
 date: last-modified
-format:
-  html:
-    toc: true
-    title-block-banner: true
-    bibliography: references.bib
-    citations-hover: true
+bibliography: references.bib
+# format:
+#   html:
+#     toc: true
+#     title-block-banner: true
+#     
+#     citations-hover: true
 ---
 
 
-Open Science is a [Strategic Objective]() of the NNA Community
+Open Science is a [Strategic Objective](https://nna-co.org) of the NNA Community
 Office.  
 
 # What is Open Science?

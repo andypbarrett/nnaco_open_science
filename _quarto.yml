@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  page-navigation: true
+  title: "NNA-CO Open Science Pages - test"
+
+  repo-url: https://github.com/andypbarrett/nnaco_open_science
+  repo-actions: [edit, source, issue]
+
+  sidebar:
+    title: "NNA-CO Open Science Resources"
+    logo: images/NNA-CO_homepage-banner_02.jpg
+    pinned: true
+    align: center
+    tools:
+      - icon: globe
+        href: https://nna-co.org
+        text: "NNA-CO Website"
+      - icon: github
+        href: https://github.com/andypbarrett/nnaco_open_science
+        text: "NNA-CO Open Science repo"
+      - icon: twitter
+        text: "NNA-CO twitter"
+        href: https://twitter.com/ArcticTogether
+  
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: "Welcome"
+        href: index.qmd
+      - nna_open_science_fundamental_resources.qmd
+      - resources.qmd
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    code-background: true
+    code-copy: true
+    css: styles.css
+    toc: true
+
+filters:
+#  - include-files.lua
+  - quarto

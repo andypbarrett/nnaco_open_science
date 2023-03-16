@@ -1,0 +1,20 @@
+---
+title: "Resources"
+date: last-modified
+bibliography: references.bib
+---
+
+Below is a list of resources for doing Open Science.
+
+This is a community resource.  If you have a resource you would like
+to see included either support an issue using the "Report an Issue"
+link on the right of this page, or submit a Pull Request.  For more
+information see [Contributing]().
+
+## Open Access Publishing
+
+
+## Open Data
+
+
+## Open Code
