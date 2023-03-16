@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Below is a list of resources for doing Open Science.\nThis is a community resource. If you have a resource you would like to see included either support an issue using the “Report an Issue” link on the right of this page, or submit a Pull Request. For more information see Contributing."
+  },
+  {
+    "objectID": "resources.html#open-access-publishing",
+    "href": "resources.html#open-access-publishing",
+    "title": "Resources",
+    "section": "Open Access Publishing",
+    "text": "Open Access Publishing"
+  },
+  {
+    "objectID": "resources.html#open-data",
+    "href": "resources.html#open-data",
+    "title": "Resources",
+    "section": "Open Data",
+    "text": "Open Data"
+  },
+  {
+    "objectID": "resources.html#open-code",
+    "href": "resources.html#open-code",
+    "title": "Resources",
+    "section": "Open Code",
+    "text": "Open Code"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NNA-CO Open Science",
+    "section": "",
+    "text": "The resources on this site are intended to promote Open Science practices within the Navigating the New Arctic Community and help community members transition to Open Science.\nIf you want to learn what Open Science is and why Open Science helps the scientific endeavour, as well as some steps to start practising Open Science you can find these on the Open Science page.\nIf you are looking for resources, go to the Resources page."
+  },
+  {
+    "objectID": "nna_open_science_fundamental_resources.html",
+    "href": "nna_open_science_fundamental_resources.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "Open Science is a Strategic Objective of the NNA Community Office."
+  },
+  {
+    "objectID": "nna_open_science_fundamental_resources.html#general-hints-and-suggestions.",
+    "href": "nna_open_science_fundamental_resources.html#general-hints-and-suggestions.",
+    "title": "Open Science",
+    "section": "General hints and suggestions.",
+    "text": "General hints and suggestions.\nFortunately, there are some excellent arcticles and guides on doing Open Science (See Heise et al. (2023) and TOPS (2023)). Two keys pieces of advice are worth highlighting.\n\nStart slowly. Select a few Open Science practices to start with rather than trying to follow every suggestion. The NASA TOPS program suggest a few first steps.\nIncorporate Open Science practices at the start of a project, rather than at the end when you are trying to publish a manuscript of wrap-up a project. Trying to backwards engineer an analysis workflow or find URL or DOI for a dataset months after you downloaded it is time consuming and frustrating. Having a system to record these as you work on the project will save time in the long-run. Rodrigues (2023), advocates DRY WIT: Don’t Repeat Yourself; and Write IT down.\n\nThe TOPS (2023) is a nice tiered approach gives guidance to individuals, reasearch teams and organizations in adopting Open Sciences practices"
+  },
+  {
+    "objectID": "nna_open_science_fundamental_resources.html#open-access",
+    "href": "nna_open_science_fundamental_resources.html#open-access",
+    "title": "Open Science",
+    "section": "Open Access",
+    "text": "Open Access"
+  },
+  {
+    "objectID": "nna_open_science_fundamental_resources.html#open-data",
+    "href": "nna_open_science_fundamental_resources.html#open-data",
+    "title": "Open Science",
+    "section": "Open Data",
+    "text": "Open Data"
+  },
+  {
+    "objectID": "nna_open_science_fundamental_resources.html#open-code",
+    "href": "nna_open_science_fundamental_resources.html#open-code",
+    "title": "Open Science",
+    "section": "Open Code",
+    "text": "Open Code\nMost scientists don’t consider themselves software developers. Although you may not be writing production software for Google, or some other tech company, you are developing software to collect, clean and analyse data, and to create plots and tables. Taking simple steps to document code and write clean_code will make your code easier to understand and reduce anxiety created by needing to share code. The resources outlined below are a good start.\nSoftware Capentries\nTwo papers (Wilson et al. 2014, 2017) lay out a set of best and good enough practices for scientific software sevelopment.\nRodrigues (2023) gives an in depth guide to building reproducible workflows; including using version control systems like GitHub, writing clean code, and documenting workflows. The approach is a tutorial style with hands-on coding. The focus is on the R language but the approach applies to other langauges such as python. It assumes some knowledge of writing code."
+  }
+]
