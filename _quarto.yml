@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: _site
 
+execute:
+  freeze: auto
+  
 website:
   page-navigation: true
   title: "NNA-CO Open Science Pages - test"
