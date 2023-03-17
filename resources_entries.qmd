@@ -3,101 +3,130 @@ title: Resources
 date: last-modified
 bibliography: references.bib
 ---
-Title: Good enough practices in scientific computing  
-* Author: Wilson, Greg and Bryan, Jennifer and Cranston, Karen and Kitzes, Justin and Nederbragt, Lex and Teal, Tracy K.  
-* Year: 2017  
-* Abstract: Author summary Computers are now essential in all branches of science, but most researchers are never taught the equivalent of basic lab skills for research computing. As a result, data can get lost, analyses can take much longer than necessary, and researchers are limited in how effectively they can work with software and data. Computing workflows need to follow the same practices as lab projects and notebooks, with organized data, documented steps, and the project structured for reproducibility, but researchers new to computing often don't know where to start. This paper presents a set of good computing practices that every researcher can adopt, regardless of their current level of computational skill. These practices, which encompass data management, programming, collaborating with colleagues, organizing projects, tracking work, and writing manuscripts, are drawn from a wide variety of published sources from our daily lives and from our work with volunteer organizations that have delivered workshops to over 11,000 people since 2010.  
-* Url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510  
-* \fullcite{wilson_good_2017}
 
-Title: Best Practices for Scientific Computing  
-* Author: Wilson, Greg and Aruliah, D. A. and Brown, C. Titus and Hong, Neil P. Chue and Davis, Matt and Guy, Richard T. and Haddock, Steven H. D. and Huff, Kathryn D. and Mitchell, Ian M. and Plumbley, Mark D. and Waugh, Ben and White, Ethan P. and Wilson, Paul  
-* Year: 2014  
-* Abstract: We describe a set of best practices for scientific software development, based on research and experience, that will improve scientists' productivity and the reliability of their software.  
-* Url: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745  
-* \fullcite{wilson_best_2014}
+**Title:** Good enough practices in scientific computing  
 
-Title: Desirable Characteristics of Data Repositories for Federally Funded Research  
-* Author: White House Office of Science and Technology Policy (OSTP)  
-* Year: 2022  
-* Abstract: This document is a work of the United States Government and is in the public domain (see 17 U.S.C. §105). Subject to the stipulations below, it may be distributed and copied with acknowledgment to OSTP. Copyrights to graphics included in this document are reserved by the original copyright holders or their assignees and are used here under the Government’s license and by permission. Requests to use any images must be made to the provider identified in the image credits or to OSTP if no provider is identified. Published in the United States of America, 2021.  
-* Url: https://repository.si.edu/handle/10088/113528  
-* \fullcite{whostp_2022}
+* **Author**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K.  
+* **Year**: 2017  
+* **Annotation**:   
+* **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510  
+* **Citation**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K., 2017, Good enough practices in scientific computing, PLOS Computational Biology, 13
 
-Title: Open Software Means Kinder Science  
-* Author: Lowndes, Julia Stewart  
-* Year: 2019  
-* Abstract: Its transformative power has improved my ability to analyze data and collaborate with other researchers  
-* Url: https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/  
-* \fullcite{lowndes_open_2019}
 
-Title: Tidy Data  
-* Author: Wickham, Hadley  
-* Year: 2014  
-* Abstract: A huge amount of effort is spent cleaning data to get it ready for analysis, but there has been little research on how to make data cleaning as easy and effective as possible. This paper tackles a small, but important, component of data cleaning: data tidying. Tidy datasets are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table. This framework makes it easy to tidy messy datasets because only a small set of tools are needed to deal with a wide range of un-tidy datasets. This structure also makes it easier to develop tidy tools for data analysis, tools that both input and output tidy datasets. The advantages of a consistent data structure and matching tools are demonstrated with a case study free from mundane data manipulation chores.  
-* Url: https://doi.org/10.18637/jss.v059.i10  
-* \fullcite{wickham_tidy_2014}
+**Title:** Best Practices for Scientific Computing  
 
-Title: Why NASA and federal agencies are declaring this the Year of Open Science  
-* Author: Gentemann, Chelle  
-* Year: 2023  
-* Abstract: Here’s how NASA is incentivizing open science, and how you can too.  
-* Url: https://www.nature.com/articles/d41586-023-00019-y  
-* \fullcite{gentemann_why_2023}
+* **Author**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P.  
+* **Year**: 2014  
+* **Annotation**:   
+* **Url**: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745  
+* **Citation**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P., 2014, Best Practices for Scientific Computing, PLOS Biology, 12
 
-Title: Credit Where Credit Is Due  
-* Author: Parsons, Mark and Katz, Daniel and Langseth, Madison and Ramapriyan, Hampapuram and Ramdeen, Sarah  
-* Year: 2022  
-* Abstract: Promoting open, inclusive, transparent, and traceable science requires that scientists revamp the ways in which we acknowledge all manner of contributions to research.  
-* Url: https://eos.org/opinions/credit-where-credit-is-due  
-* \fullcite{parsons_credit_2022}
 
-Title: Fundamentals in Data Management for Qualitative and Quantitative Arctic Research  
-* Author: Amber, E. Budden and Clark, S. Jeanette and Haycock-Chavez, Natsha and Johnson, Noor and Jones, Matthew B.  
-* Year: 2022  
-* Abstract: Fundamentals in Data Management for Qualitative and Quantitative Arctic Research  
-* Url: https://learning.nceas.ucsb.edu/2022-04-arctic/index.html  
-* \fullcite{adc_fundamentals_2022}
+**Title:** Desirable Characteristics of Data Repositories for Federally Funded Research  
 
-Title: Building reproducible analytical pipelines with {R}  
-* Author: Rodrigues, Bruno  
-* Year: 2023  
-* Abstract:   
-* Url: https://raps-with-r.dev/  
-* \fullcite{rodrigues_building_2023}
+* **Author**: White House Office of Science and Technology Policy (OSTP)  
+* **Year**: 2022  
+* **Annotation**:   
+* **Url**: https://repository.si.edu/handle/10088/113528  
+* **Citation**: White House Office of Science and Technology Policy (OSTP), 2022, Desirable Characteristics of Data Repositories for Federally Funded Research
 
-Title: Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation  
-* Author:   
-* Year:   
-* Abstract:   
-* Url: https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp  
-* \fullcite{nsfdl_open_data_2022}
 
-Title: Transform to Open Science — NASA's Transform to Open Science Mission  
-* Author: NASA TOPS  
-* Year: 2023  
-* Abstract:   
-* Url: https://nasa.github.io/Transform-to-Open-Science-Book/index.html  
-* \fullcite{tops_guide}
+**Title:** Open Software Means Kinder Science  
 
-Title: Ten simple rules for implementing open and reproducible research practices after attending a training course  
-* Author: Heise, Verena and Holman, Constance and Lo, Hung and Lyras, Ekaterini Maria and Adkins, Mark Christopher and Aquino, Maria Raisa Jessica and Bougioukas, Konstantinos I. and Bray, Katherine O. and Gajos, Martyna and Guo, Xuanzong and Hartling, Corinna and Huerta-Gutierrez, Rodrigo and Jindrová, Miroslava and Kenney, Joanne P. M. and Kępińska, Adrianna P. and Kneller, Laura and Lopez-Rodriguez, Elena and Mühlensiepen, Felix and Richards, Angela and Richards, Gareth and Siebert, Maximilian and Smith, James A. and Smith, Natalie and Stransky, Nicolai and Tarvainen, Sirpa and Valdes, Daniela Sofia and Warrington, Kayleigh L. and Wilpert, Nina-Maria and Witkowska, Disa and Zaneva, Mirela and Zanker, Jeanette and Weissgerber, Tracey L.  
-* Year: 2023  
-* Abstract: Open, reproducible, and replicable research practices are a fundamental part of science. Training is often organized on a grassroots level, offered by early career researchers, for early career researchers. Buffet style courses that cover many topics can inspire participants to try new things; however, they can also be overwhelming. Participants who want to implement new practices may not know where to start once they return to their research team. We describe ten simple rules to guide participants of relevant training courses in implementing robust research practices in their own projects, once they return to their research group. This includes (1) prioritizing and planning which practices to implement, which involves obtaining support and convincing others involved in the research project of the added value of implementing new practices; (2) managing problems that arise during implementation; and (3) making reproducible research and open science practices an integral part of a future research career. We also outline strategies that course organizers can use to prepare participants for implementation and support them during this process.  
-* Url: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010750  
-* \fullcite{heise_ten_2023}
+* **Author**: Lowndes, J. S.  
+* **Year**: 2019  
+* **Annotation**:   
+* **Url**: https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/  
+* **Citation**: Lowndes, J. S., 2019, Open Software Means Kinder Science, Scientific American Blog Network, https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/, accessed: 2023-01-13
 
-Title: Rethinking academia in a time of climate crisis  
-* Author: Urai, Anne E and Kelly, Clare  
-* Year: 2023  
-* Abstract: Addressing the climate crisis requires radical and urgent action at all levels of society. Universities are ideally positioned to lead such action but are largely failing to do so. At the same time, many academic scientists find their work impeded by bureaucracy, excessive competitiveness, and a loss of academic freedom. Here, drawing on the framework of “Doughnut Economics,” developed by Kate Raworth, we suggest seven new principles for rethinking the norms of scientific practice. Based on these, we propose a call to action, and encourage academics to take concrete steps towards the creation of a flourishing scientific enterprise that is fit for the challenges of the 21st century.  
-* Url: https://doi.org/10.7554/eLife.84991  
-* \fullcite{urai_rethinking_2023}
 
-Title: FACT SHEET: Biden-Harris Administration Announces New Actions to Advance Open and Equitable Research OSTP  
-* Author: White House OSTP  
-* Year: 2023  
-* Abstract: OSTP launches Year of Open Science to advance national open science policies across the federal government in 2023 Today, the White House Office of Science and Technology Policy (OSTP) announced new actions to advance open and equitable research, including new grant funding, improvements in research infrastructure, broadened research participation for emerging scholars, and expanded opportunities…  
-* Url: https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/  
-* \fullcite{whostp_yos_2023}
+**Title:** Tidy Data  
+
+* **Author**: Wickham, H.  
+* **Year**: 2014  
+* **Annotation**:   
+* **Url**: https://doi.org/10.18637/jss.v059.i10  
+* **Citation**: Wickham, H., 2014, Tidy Data, Journal of Statistical Software, 59
+
+
+**Title:** Why NASA and federal agencies are declaring this the Year of Open Science  
+
+* **Author**: Gentemann, C.  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://www.nature.com/articles/d41586-023-00019-y  
+* **Citation**: Gentemann, C., 2023, Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 613
+
+
+**Title:** Credit Where Credit Is Due  
+
+* **Author**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S.  
+* **Year**: 2022  
+* **Annotation**:   
+* **Url**: https://eos.org/opinions/credit-where-credit-is-due  
+* **Citation**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S., 2022, Credit Where Credit Is Due, Eos, 103
+
+
+**Title:** Fundamentals in Data Management for Qualitative and Quantitative Arctic Research  
+
+* **Author**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B.  
+* **Year**: 2022  
+* **Annotation**:   
+* **Url**: https://learning.nceas.ucsb.edu/2022-04-arctic/index.html  
+* **Citation**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B., 2022, Fundamentals in Data Management for Qualitative and Quantitative Arctic Research, https://learning.nceas.ucsb.edu/2022-04-arctic/index.html, accessed: 2023-03-14
+
+
+**Title:** Building reproducible analytical pipelines with R  
+
+* **Author**: Rodrigues, B.  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://raps-with-r.dev/  
+* **Citation**: Rodrigues, B., 2023, Building reproducible analytical pipelines with R, https://raps-with-r.dev/, accessed: 2023-03-14
+
+
+**Title:** Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation  
+
+* **Author**: NSF  
+* **Year**:   
+* **Annotation**:   
+* **Url**: https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp  
+* **Citation**: NSF, Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation, https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp, accessed: 2023-03-14
+
+
+**Title:** Transform to Open Science — NASA's Transform to Open Science Mission  
+
+* **Author**: NASA TOPS  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://nasa.github.io/Transform-to-Open-Science-Book/index.html  
+* **Citation**: NASA TOPS, 2023, Transform to Open Science — NASA's Transform to Open Science Mission, https://nasa.github.io/Transform-to-Open-Science-Book/index.html, accessed: 2023-03-14
+
+
+**Title:** Ten simple rules for implementing open and reproducible research practices after attending a training course  
+
+* **Author**: Heise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., Richards, G., Siebert, M., Smith, J. A., Smith, N., Stransky, N., Tarvainen, S., Valdes, D. S., Warrington, K. L., Wilpert, N., Witkowska, D., Zaneva, M., Zanker, J., & Weissgerber, T. L.  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010750  
+* **Citation**: Heise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., Richards, G., Siebert, M., Smith, J. A., Smith, N., Stransky, N., Tarvainen, S., Valdes, D. S., Warrington, K. L., Wilpert, N., Witkowska, D., Zaneva, M., Zanker, J., & Weissgerber, T. L., 2023, Ten simple rules for implementing open and reproducible research practices after attending a training course, PLOS Computational Biology, 19
+
+
+**Title:** Rethinking academia in a time of climate crisis  
+
+* **Author**: Urai, A. E., & Kelly, C.  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://doi.org/10.7554/eLife.84991  
+* **Citation**: Urai, A. E., & Kelly, C., 2023, Rethinking academia in a time of climate crisis, eLife, 12
+
+
+**Title:** FACT SHEET: Biden-Harris Administration Announces New Actions to Advance Open and Equitable Research OSTP  
+
+* **Author**: White House OSTP  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/  
+* **Citation**: White House OSTP, 2023, FACT SHEET: Biden-Harris Administration Announces New Actions to Advance Open and Equitable Research OSTP, The White House, https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/, accessed: 2023-03-14
+
 
