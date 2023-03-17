@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://andypbarrett.github.io/nnaco_open_science/resources_entries.html</loc>
+    <lastmod>2023-03-17T00:55:00.244Z</lastmod>
+  </url>
+  <url>
     <loc>https://andypbarrett.github.io/nnaco_open_science/resources.html</loc>
-    <lastmod>2023-03-16T22:22:27.422Z</lastmod>
+    <lastmod>2023-03-17T00:55:00.564Z</lastmod>
   </url>
   <url>
     <loc>https://andypbarrett.github.io/nnaco_open_science/index.html</loc>
-    <lastmod>2023-03-16T22:22:27.714Z</lastmod>
+    <lastmod>2023-03-17T00:55:00.860Z</lastmod>
   </url>
   <url>
     <loc>https://andypbarrett.github.io/nnaco_open_science/nna_open_science_fundamental_resources.html</loc>
-    <lastmod>2023-03-16T22:22:28.178Z</lastmod>
+    <lastmod>2023-03-17T00:55:01.312Z</lastmod>
   </url>
 </urlset>
