@@ -35,7 +35,7 @@ website:
       - text: "Welcome"
         href: index.qmd
       - nna_open_science_fundamental_resources.qmd
-      - resources.qmd
+      - resources_entries.qmd
 
 format:
   html:
