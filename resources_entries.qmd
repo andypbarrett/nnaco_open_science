@@ -4,50 +4,7 @@ date: last-modified
 bibliography: references.bib
 ---
 
-**Title:** Good enough practices in scientific computing  
-
-* **Author**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K.  
-* **Year**: 2017  
-* **Annotation**:   
-* **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510  
-* **Citation**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K., 2017, Good enough practices in scientific computing, PLOS Computational Biology, 13
-
-
-**Title:** Best Practices for Scientific Computing  
-
-* **Author**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P.  
-* **Year**: 2014  
-* **Annotation**:   
-* **Url**: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745  
-* **Citation**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P., 2014, Best Practices for Scientific Computing, PLOS Biology, 12
-
-
-**Title:** Desirable Characteristics of Data Repositories for Federally Funded Research  
-
-* **Author**: White House Office of Science and Technology Policy (OSTP)  
-* **Year**: 2022  
-* **Annotation**:   
-* **Url**: https://repository.si.edu/handle/10088/113528  
-* **Citation**: White House Office of Science and Technology Policy (OSTP), 2022, Desirable Characteristics of Data Repositories for Federally Funded Research
-
-
-**Title:** Open Software Means Kinder Science  
-
-* **Author**: Lowndes, J. S.  
-* **Year**: 2019  
-* **Annotation**:   
-* **Url**: https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/  
-* **Citation**: Lowndes, J. S., 2019, Open Software Means Kinder Science, Scientific American Blog Network, https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/, accessed: 2023-01-13
-
-
-**Title:** Tidy Data  
-
-* **Author**: Wickham, H.  
-* **Year**: 2014  
-* **Annotation**:   
-* **Url**: https://doi.org/10.18637/jss.v059.i10  
-* **Citation**: Wickham, H., 2014, Tidy Data, Journal of Statistical Software, 59
-
+## General Reading
 
 **Title:** Why NASA and federal agencies are declaring this the Year of Open Science  
 
@@ -58,40 +15,13 @@ bibliography: references.bib
 * **Citation**: Gentemann, C., 2023, Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 613
 
 
-**Title:** Credit Where Credit Is Due  
+**Title:** Open Software Means Kinder Science  
 
-* **Author**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S.  
-* **Year**: 2022  
+* **Author**: Lowndes, J. S.  
+* **Year**: 2019  
 * **Annotation**:   
-* **Url**: https://eos.org/opinions/credit-where-credit-is-due  
-* **Citation**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S., 2022, Credit Where Credit Is Due, Eos, 103
-
-
-**Title:** Fundamentals in Data Management for Qualitative and Quantitative Arctic Research  
-
-* **Author**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B.  
-* **Year**: 2022  
-* **Annotation**:   
-* **Url**: https://learning.nceas.ucsb.edu/2022-04-arctic/index.html  
-* **Citation**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B., 2022, Fundamentals in Data Management for Qualitative and Quantitative Arctic Research, https://learning.nceas.ucsb.edu/2022-04-arctic/index.html, accessed: 2023-03-14
-
-
-**Title:** Building reproducible analytical pipelines with R  
-
-* **Author**: Rodrigues, B.  
-* **Year**: 2023  
-* **Annotation**:   
-* **Url**: https://raps-with-r.dev/  
-* **Citation**: Rodrigues, B., 2023, Building reproducible analytical pipelines with R, https://raps-with-r.dev/, accessed: 2023-03-14
-
-
-**Title:** Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation  
-
-* **Author**: NSF  
-* **Year**:   
-* **Annotation**:   
-* **Url**: https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp  
-* **Citation**: NSF, Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation, https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp, accessed: 2023-03-14
+* **Url**: https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/  
+* **Citation**: Lowndes, J. S., 2019, Open Software Means Kinder Science, Scientific American Blog Network, https://blogs.scientificamerican.com/observations/open-software-means-kinder-science/, accessed: 2023-01-13
 
 
 **Title:** Transform to Open Science — NASA's Transform to Open Science Mission  
@@ -128,5 +58,74 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/  
 * **Citation**: White House OSTP, 2023, FACT SHEET: Biden-Harris Administration Announces New Actions to Advance Open and Equitable Research OSTP, The White House, https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/, accessed: 2023-03-14
+
+
+## Reproducible Research
+
+**Title:** Best Practices for Scientific Computing  
+
+* **Author**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P.  
+* **Year**: 2014  
+* **Annotation**:   
+* **Url**: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745  
+* **Citation**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P., 2014, Best Practices for Scientific Computing, PLOS Biology, 12
+
+
+**Title:** Good enough practices in scientific computing  
+
+* **Author**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K.  
+* **Year**: 2017  
+* **Annotation**:   
+* **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510  
+* **Citation**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K., 2017, Good enough practices in scientific computing, PLOS Computational Biology, 13
+
+
+**Title:** Building reproducible analytical pipelines with {R}  
+
+* **Author**: Rodrigues, B.  
+* **Year**: 2023  
+* **Annotation**:   
+* **Url**: https://raps-with-r.dev/  
+* **Citation**: Rodrigues, B., 2023, Building reproducible analytical pipelines with {R}, https://raps-with-r.dev/, accessed: 2023-03-14
+
+
+## Open Access Publishing
+
+**Title:** Credit Where Credit Is Due  
+
+* **Author**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S.  
+* **Year**: 2022  
+* **Annotation**:   
+* **Url**: https://eos.org/opinions/credit-where-credit-is-due  
+* **Citation**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S., 2022, Credit Where Credit Is Due, Eos, 103
+
+
+## Open Data
+
+**Title:** Fundamentals in Data Management for Qualitative and Quantitative Arctic Research  
+
+* **Author**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B.  
+* **Year**: 2022  
+* **Annotation**:   
+* **Url**: https://learning.nceas.ucsb.edu/2022-04-arctic/index.html  
+* **Citation**: Amber, E. B., Clark, S. J., Haycock-Chavez, N., Johnson, N., & Jones, M. B., 2022, Fundamentals in Data Management for Qualitative and Quantitative Arctic Research, https://learning.nceas.ucsb.edu/2022-04-arctic/index.html, accessed: 2023-03-14
+
+
+**Title:** Tidy Data  
+
+* **Author**: Wickham, H.  
+* **Year**: 2014  
+* **Annotation**:   
+* **Url**: https://doi.org/10.18637/jss.v059.i10  
+* **Citation**: Wickham, H., 2014, Tidy Data, Journal of Statistical Software, 59
+
+
+**Title:** Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation  
+
+* **Author**:   
+* **Year**:   
+* **Annotation**:   
+* **Url**: https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp  
+* **Citation**: Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation, https://www.nsf.gov/pubs/2020/nsf20068/nsf20068.jsp, accessed: 2023-03-14
 
 
