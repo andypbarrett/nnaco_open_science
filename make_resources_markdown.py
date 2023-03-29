@@ -111,17 +111,9 @@ def create_resource(tag, ent):
     return result
 
 
-def get_annotations():
-    """Reads annotation file and returns a list of strings"""
-    with open(annotations_file, "r") as f:
-        annotation = f.readlines()
-    return annotation
-
-
 def main():
     """Create qmd files"""
     db = get_bibtex_db()
-    #annotation = get_annotations()
     
     # Add entry keys for different sections
     with open('resources_entries.qmd', 'w') as of:
