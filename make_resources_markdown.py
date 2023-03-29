@@ -87,24 +87,42 @@ def make_citation(ent):
     return ', '.join([x for x in result if x is not None])
 
 
+def create_doi_link(ent):
+    if "doi" in ent:
+        return f"https://doi.org/{ent.get('doi')}"
+    else:
+        return ""
+
+
 def create_resource(tag, ent):
     """Generates a resource entry"""
     result = ""
     result += f"**Title:** {ent.get('title')}  \n\n"
     for field in ['author', 'year', 'annotation', 'url', 'doi']:
         if field == 'author':
-            result += f"* **{field.title()}**: {parse_authorlist(ent.get(field, ''))}  \n"
+            result += f"* **{field.title()}:** {parse_authorlist(ent.get(field, ''))}  \n"
+        elif field == "doi":
+            result += f"* **{field.title()}:** {create_doi_link(ent)} \n"
         else:
-            result += f"* **{field.title()}**: {ent.get(field, '')}  \n"
-    result += f"* **Citation**: {make_citation(ent)}\n"
+            result += f"* **{field.title()}:** {ent.get(field, '')}  \n"
+
+    result += f"* **Citation:** {make_citation(ent)}\n"
     result += "\n"
     return result
+
+
+def get_annotations():
+    """Reads annotation file and returns a list of strings"""
+    with open(annotations_file, "r") as f:
+        annotation = f.readlines()
+    return annotation
 
 
 def main():
     """Create qmd files"""
     db = get_bibtex_db()
-
+    #annotation = get_annotations()
+    
     # Add entry keys for different sections
     with open('resources_entries.qmd', 'w') as of:
         of.write(qmd_header)
