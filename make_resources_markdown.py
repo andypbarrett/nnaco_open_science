@@ -89,7 +89,7 @@ def create_resource(tag, ent):
     """Generates a resource entry"""
     result = ""
     result += f"**Title:** {ent.get('title')}  \n\n"
-    for field in ['author', 'year', 'annotation', 'url']:
+    for field in ['author', 'year', 'annotation', 'url', 'doi']:
         if field == 'author':
             result += f"* **{field.title()}**: {parse_authorlist(ent.get(field, ''))}  \n"
         else:
