@@ -80,6 +80,8 @@ def make_citation(ent):
             if 'doi' not in ent:
                 result.append(ent.get('url'))
                 result.append(f"accessed: {ent.get('urldate')}")
+            else:
+                result.append(ent.get(field))
         else:
             result.append(ent.get(field))
     return ', '.join([x for x in result if x is not None])

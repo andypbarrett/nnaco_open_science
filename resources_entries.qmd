@@ -13,7 +13,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://www.nature.com/articles/d41586-023-00019-y  
 * **Doi**: 10.1038/d41586-023-00019-y  
-* **Citation**: Gentemann, C., 2023, Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 613
+* **Citation**: Gentemann, C., 2023, Why NASA and federal agencies are declaring this the Year of Open Science, Nature, 613, 10.1038/d41586-023-00019-y
 
 
 **Title:** Open Software Means Kinder Science  
@@ -43,7 +43,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010750  
 * **Doi**: 10.1371/journal.pcbi.1010750  
-* **Citation**: Heise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., Richards, G., Siebert, M., Smith, J. A., Smith, N., Stransky, N., Tarvainen, S., Valdes, D. S., Warrington, K. L., Wilpert, N., Witkowska, D., Zaneva, M., Zanker, J., & Weissgerber, T. L., 2023, Ten simple rules for implementing open and reproducible research practices after attending a training course, PLOS Computational Biology, 19
+* **Citation**: Heise, V., Holman, C., Lo, H., Lyras, E. M., Adkins, M. C., Aquino, M. R. J., Bougioukas, K. I., Bray, K. O., Gajos, M., Guo, X., Hartling, C., Huerta-Gutierrez, R., Jindrová, M., Kenney, J. P. M., Kępińska, A. P., Kneller, L., Lopez-Rodriguez, E., Mühlensiepen, F., Richards, A., Richards, G., Siebert, M., Smith, J. A., Smith, N., Stransky, N., Tarvainen, S., Valdes, D. S., Warrington, K. L., Wilpert, N., Witkowska, D., Zaneva, M., Zanker, J., & Weissgerber, T. L., 2023, Ten simple rules for implementing open and reproducible research practices after attending a training course, PLOS Computational Biology, 19, 10.1371/journal.pcbi.1010750
 
 
 **Title:** Rethinking academia in a time of climate crisis  
@@ -53,7 +53,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://doi.org/10.7554/eLife.84991  
 * **Doi**: 10.7554/eLife.84991  
-* **Citation**: Urai, A. E., & Kelly, C., 2023, Rethinking academia in a time of climate crisis, eLife, 12
+* **Citation**: Urai, A. E., & Kelly, C., 2023, Rethinking academia in a time of climate crisis, eLife, 12, 10.7554/eLife.84991
 
 
 **Title:** FACT SHEET: Biden-Harris Administration Announces New Actions to Advance Open and Equitable Research OSTP  
@@ -75,7 +75,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745  
 * **Doi**: 10.1371/journal.pbio.1001745  
-* **Citation**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P., 2014, Best Practices for Scientific Computing, PLOS Biology, 12
+* **Citation**: Wilson, G., Aruliah, D. A., Brown, C. T., Hong, N. P. C., Davis, M., Guy, R. T., Haddock, S. H. D., Huff, K. D., Mitchell, I. M., Plumbley, M. D., Waugh, B., White, E. P., & Wilson, P., 2014, Best Practices for Scientific Computing, PLOS Biology, 12, 10.1371/journal.pbio.1001745
 
 
 **Title:** Good enough practices in scientific computing  
@@ -85,7 +85,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510  
 * **Doi**: 10.1371/journal.pcbi.1005510  
-* **Citation**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K., 2017, Good enough practices in scientific computing, PLOS Computational Biology, 13
+* **Citation**: Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K., 2017, Good enough practices in scientific computing, PLOS Computational Biology, 13, 10.1371/journal.pcbi.1005510
 
 
 **Title:** Building reproducible analytical pipelines with {R}  
@@ -107,7 +107,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://eos.org/opinions/credit-where-credit-is-due  
 * **Doi**: 10.1029/2022EO220239  
-* **Citation**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S., 2022, Credit Where Credit Is Due, Eos, 103
+* **Citation**: Parsons, M., Katz, D., Langseth, M., Ramapriyan, H., & Ramdeen, S., 2022, Credit Where Credit Is Due, Eos, 103, 10.1029/2022EO220239
 
 
 ## Open Data
@@ -129,7 +129,7 @@ bibliography: references.bib
 * **Annotation**:   
 * **Url**: https://doi.org/10.18637/jss.v059.i10  
 * **Doi**: 10.18637/jss.v059.i10  
-* **Citation**: Wickham, H., 2014, Tidy Data, Journal of Statistical Software, 59
+* **Citation**: Wickham, H., 2014, Tidy Data, Journal of Statistical Software, 59, 10.18637/jss.v059.i10
 
 
 **Title:** Dear Colleague Letter: Open Science for Research Data (nsf20068) NSF - National Science Foundation  
